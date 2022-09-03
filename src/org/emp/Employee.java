@@ -27,6 +27,11 @@ public class Employee {
 		System.out.println("Kumbakonam");
 	}
 	
+	
+	private void empProof() {
+		System.out.println("Aadhar");
+
+	}
 	public static void main(String[] args) {
 		
 	
@@ -38,6 +43,7 @@ public class Employee {
 		a.empPhone();
 		a.empEmail();
 		a.empAddress();
+		a.empProof();
 		
 				
 
